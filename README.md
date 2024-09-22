@@ -48,6 +48,8 @@ resource "aws_iam_policy_attachment" "example_policy_attachment" {
 }
 ```
 
+Open backend.tf change S3 bucket name.
+
 ### 4. Install NGINX Ingress Controller using Helm
 
 Add the official NGINX Ingress Controller Helm repository and install the controller:
