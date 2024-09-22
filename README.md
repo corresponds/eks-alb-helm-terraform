@@ -104,4 +104,9 @@ helm upgrade -i aws-load-balancer-controller eks/aws-load-balancer-controller -n
 ```
 
 ### Notes
-Your contributions are welcome! If you find any issues or have suggestions, please open an [issue](https://github.com/corresponds/gekas/issues) or submit a [pull request](https://github.com/corresponds/gekas/pulls).
+Your contributions are welcome! If you find any issues or have suggestions, please open an [issue](https://github.com/corresponds/gekas/issues) or PR
+- How to PR
+  - Fork the repository 
+  - Create a new branch
+  - Commit code changes
+  - Submit a Pull Request (PR)
