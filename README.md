@@ -17,8 +17,8 @@ Ensure you have the following installed and configured before proceeding:
 ### 1. Clone the Repository
 
 ```shell
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/corresponds/eks-alb-helm-terraform.git
+cd eks-alb-helm-terraform
 ```
 
 ### 2. Configure and Apply Terraform
