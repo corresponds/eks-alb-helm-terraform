@@ -39,7 +39,7 @@ aws eks update-kubeconfig --name eks-cluster --region us-east-1
 kubectl get nodes
 ```
 
-Open main.tf,Change to your account id
+Open main.tf, Change to your account id `<YourAccountId>`
 ```hcl
 resource "aws_iam_policy_attachment" "example_policy_attachment" {
   name       = "load-balancer-controller-policy-attachment"
